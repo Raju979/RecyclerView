@@ -1,2 +1,2 @@
-## Task 1: Create a new project and dataset
-!['Completed Create a new project and dataset'](./completed_task_1.JPG)
+## Task 2: Create a RecyclerView
+!['Completed Task 2: Create a RecyclerView'](./completed_task_2.JPG)
